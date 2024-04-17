@@ -1,3 +1,5 @@
+<img src="https://github.com/anademetrio/cooks-delight/assets/33638994/473f4b19-cb30-4a3d-82f3-d5089b2f9343" />
+
 # Nuxt 3 + Tailwind
 
 > Status: Desenvolvendo
