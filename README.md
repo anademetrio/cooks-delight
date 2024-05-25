@@ -4,7 +4,8 @@
 
 > Status: Desenvolvendo
 
-Fiz este projeto com base em um [figma](https://www.figma.com/community/file/1331351586208563684) da comunidade e utilizando uma [free api](https://www.themealdb.com/api.php)!!!
+Desenvolvi este projeto com base em um design encontrado na comunidade do [Figma](https://www.figma.com/community/file/1331351586208563684), e utilizei uma [API gratuita](https://www.themealdb.com/api.php) para complementar suas funcionalidades. Estou animado para compartilhar como integrei esses elementos para criar uma experiência única e funcional.
+
 
 ## Tecnologias utilizadas:
 <div>
